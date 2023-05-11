@@ -1,0 +1,4 @@
+#Thu May 11 23:32:41 IST 2023
+base.0=C\:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

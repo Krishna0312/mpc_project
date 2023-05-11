@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CropChecker</string>
+    <string name="buttonSelectPhoto">Choose an image</string>
+    <string name="buttonTakePhoto">Take an image</string>
+    <string name="buttonDiagnose">Check</string>
+    <string name="defaultImage">It is default image</string>
+    <string name="descriptionImage">View for displaying image</string>
+</resources>

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_homescreen.xml.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\src\\main\\res\\layout\\activity_homescreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\font_mirza.xml.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\src\\main\\res\\font\\mirza.xml"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_information.xml.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\src\\main\\res\\layout\\activity_information.xml"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable_background2.png.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\src\\main\\res\\drawable\\background2.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable_image_round.xml.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\src\\main\\res\\drawable\\image_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.png.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable_background1.png.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\src\\main\\res\\drawable\\background1.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_view.xml.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\src\\main\\res\\drawable\\round_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_icon1.png.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\src\\main\\res\\mipmap-xxhdpi\\icon1.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_icon2.png.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\src\\main\\res\\mipmap-xxhdpi\\icon2.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable_round_button.xml.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\src\\main\\res\\drawable\\round_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Krishna\\AndroidStudioProjects\\MPCcourse-projects-Krishna-Jai\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    }
+]
